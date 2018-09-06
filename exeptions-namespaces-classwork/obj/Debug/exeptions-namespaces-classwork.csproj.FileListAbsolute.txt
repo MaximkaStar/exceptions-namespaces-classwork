@@ -1,0 +1,10 @@
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\bin\Debug\exeptions-namespaces-classwork.exe.config
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\bin\Debug\exeptions-namespaces-classwork.exe
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\bin\Debug\exeptions-namespaces-classwork.pdb
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\bin\Debug\Models.dll
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\bin\Debug\Models.pdb
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\obj\Debug\exeptions-namespaces-classwork.csprojAssemblyReference.cache
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\obj\Debug\exeptions-namespaces-classwork.csproj.CoreCompileInputs.cache
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\obj\Debug\exeptions-namespaces-classwork.csproj.CopyComplete
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\obj\Debug\exeptions-namespaces-classwork.exe
+C:\Users\ПопченкоМ\source\repos\exeptions-namespaces-classwork\exeptions-namespaces-classwork\obj\Debug\exeptions-namespaces-classwork.pdb
